@@ -31,6 +31,7 @@
   alias status="git status"
   alias push="git push"
   alias diff="git diff"
+  alias checkout="git checkout"
 
 #---------------------------------------------------------------------------#
 # Maven shortcuts                                                           #
